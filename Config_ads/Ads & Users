@@ -1,0 +1,11 @@
+{
+"showOpenAd": true,
+"showInter": true,
+"showBanner": true,
+"showFakeUsers": true,
+"showRealUsers": true,
+"version": "1.1.8",
+"countForSkip": 2,
+"countForConnect": 2,
+"countForOpenAd": 1,
+}
